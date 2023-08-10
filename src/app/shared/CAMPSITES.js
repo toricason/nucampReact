@@ -3,6 +3,7 @@ import chromeRiverImg from '../assets/img/chrome-river.jpg';
 import breadCrumbImg from '../assets/img/breadcrumb-trail.jpg';
 import reduxWoodsImg from '../assets/img/redux-woods.jpg';
 
+
 export const CAMPSITES = [
     {
         id: 0,
@@ -41,3 +42,4 @@ export const CAMPSITES = [
             "You'll never want to leave this hidden gem, deep within the lush Redux Woods."
     }
 ];
+
