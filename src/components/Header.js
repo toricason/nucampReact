@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import {Navbar, NavbarBrand, Collapse, NavbarToggler, Nav, NavItem, Col} from 'reactstrap';
+import {Navbar, NavbarBrand, Collapse, NavbarToggler, Nav, NavItem} from 'reactstrap';
 import {NavLink} from 'react-router-dom';
 import NucampLogo from '../app/assets/img/logo.png';
 
@@ -40,6 +40,6 @@ const Header = () => {
             </Collapse>
         </Navbar>
     )
-}
+};
 
 export default Header;
